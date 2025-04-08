@@ -38,5 +38,5 @@ _(Replace with your actual Streamlit link after deployment)_
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/heart-rate-calorie-calc.git
-cd heart-rate-calorie-calc
+git clone https://github.com/popemistress/bpmCalc.git
+cd bpmCalc
